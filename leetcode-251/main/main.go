@@ -1,7 +1,7 @@
 package main
 
 import (
-	"LeetCode/leetcode-251/isUgly"
+	"LeetCodeSolve/leetcode-251/isUgly"
 	"fmt"
 )
 
